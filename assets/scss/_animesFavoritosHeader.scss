@@ -1,0 +1,10 @@
+.animesFavoritos__header {
+    background-image: $colorPrimario;
+    .titulo h1 {
+        font-size: $tamanioTitulo;
+        text-decoration: solid;
+    }
+    .logo {
+        border-radius: 35px;
+    }
+}

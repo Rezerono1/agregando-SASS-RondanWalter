@@ -1,0 +1,57 @@
+.animesFavoritos__main {
+    background-image: url(../img/fondoDePantalla.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    .main__contenedorVideos1 {
+        .videoDeNaruto {
+            .videoDeNaruto__subtittle {
+                text-decoration: underline;
+                color: $letraAmarilla;
+                font-size: $tamanioSubtitulo;
+            }
+            .videoDeNaruto__descripcion {
+                color: $letraBlanca;
+                font-size: $tamanioParrafo;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        }
+        .videoDeDragonBall {
+            .videoDeDragonBall__subtittle {
+                text-decoration: underline;
+                color: $letraAmarilla;
+                font-size: $tamanioSubtitulo;
+            }
+            .videoDeDragonBall__descripcion {
+                color: $letraBlanca;
+                font-size: $tamanioParrafo;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        }
+    }
+    .main__contenedorVideos2 {
+        .videoDeOnePiece {
+            .videoDeOnePiece__subtittle {
+                text-decoration: underline;
+                color: $letraAmarilla;
+                font-size: $tamanioSubtitulo;
+            }
+            .videoDeOnePiece__descripcion {
+                color: $letraAmarilla;
+                font-size: $tamanioParrafo;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        }
+        .videoDeDemonSlayer {
+            .videoDeDemonSlayer__subtittle {
+                text-decoration: underline;
+                color: $letraAmarilla;
+                font-size: $tamanioSubtitulo;
+            }
+            .videoDeDemonSlayer__descripcion {
+                color: $letraBlanca;
+                font-size: $tamanioParrafo;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+        }
+    }
+}

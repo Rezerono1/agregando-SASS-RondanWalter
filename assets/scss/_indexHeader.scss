@@ -1,0 +1,10 @@
+.index__header {
+    background-image: $colorPrimario;
+    .logo {
+        border-radius: 35px;
+    }
+    .titulo h1 {
+        font-size: $tamanioTitulo;
+        text-decoration: solid;
+    }
+}
